@@ -6,7 +6,7 @@ Ao interagir com o nosso bot do Discord, você concorda com os Termos de Serviç
 
 ## 2. Uso do Bot
 
-O bot foi criado para fornecer [descrição das funcionalidades do bot]. Ao utilizar o bot, você concorda em não realizar as seguintes ações:
+O bot foi criado para fornecer auxílio na moderação. Ao utilizar o bot, você concorda em não realizar as seguintes ações:
 - **Abuso ou spam:** Não envie mensagens repetitivas ou que possam ser consideradas como spam.
 - **Comportamento inadequado:** Não use o bot para realizar atividades ilegais ou para prejudicar outros usuários.
 - **Uso de dados pessoais:** Não colete ou solicite informações pessoais sem o consentimento do usuário.
@@ -30,8 +30,8 @@ O desenvolvedor reserva-se o direito de:
 
 ## 6. Política de Privacidade
 
-Ao utilizar o bot, você também concorda com a nossa [Política de Privacidade](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/privacy-policy.md).
+Ao utilizar o bot, você também concorda com a nossa [Política de Privacidade](https://github.com/Pestanadev/privacy-policy/blob/main/privacy-policy.md).
 
 ## 7. Contato
 
-Se você tiver dúvidas ou preocupações sobre estes Termos de Serviço, entre em contato conosco através de [seu e-mail ou outro meio de contato].
+Se você tiver dúvidas ou preocupações sobre estes Termos de Serviço, entre em contato conosco através de felipepestanadev@gmail.com.
